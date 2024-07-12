@@ -1,4 +1,6 @@
 # 100 Essential Coding Platforms: A Brief Overview
+![100 Essential Coding Platforms](https://github.com/user-attachments/assets/d858c624-e875-4c3c-940b-37b6657dbcb5)
+
 ## Brief Overview of 100 Coding Platforms
 Navigating the vast world of coding platforms can be daunting, especially with the plethora of options available, each catering to different aspects of programming and development. Whether you're a complete beginner or an experienced developer looking to expand your skills, having a comprehensive guide can simplify your journey and help you find the best resources for your needs. 
 
@@ -11,6 +13,7 @@ From structured courses and interactive lessons to competitive programming and p
 Additionally, leveraging these platforms will not only enhance individual skillsets but also contribute to business growth. By fostering a culture of continuous learning and development, businesses can gain more visibility and improve their search engine rankings ([SERPs](https://targeted-visitors.com/why-serps-matter-amp-boosting-your-seo-strategy/)). This increased visibility and improved SEO can lead to higher traffic, more leads, and ultimately, greater success in the digital marketplace.
 ## Explore 100 Coding Platforms: A Brief Overview
 Providing deep details for each of the 100 coding platforms would be quite extensive, but here is a brief overview for each one. You can then expand on the specific ones that interest you the most.
+
 
 
 1.	**[Codecademy](https://www.codecademy.com/)**: Offers interactive coding lessons in various programming languages, including Python, JavaScript, and Ruby.

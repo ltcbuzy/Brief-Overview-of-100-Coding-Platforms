@@ -38,50 +38,50 @@ Providing deep details for each of the 100 coding platforms would be quite exten
 23.	**[Coderbyte](https://coderbyte.com/)**: Offers coding challenges, interview prep, and courses in various programming languages.
 24.	**[Project Euler](https://projecteuler.net/)**: A collection of mathematical problems intended to be solved with programming.
 25.	**[CodeChef](https://www.codechef.com/)**: A competitive programming community offering contests and practice problems.
-26.	**AtCoder**: Japanese competitive programming site that hosts regular contests.
-27.	**SPOJ**: Offers a vast collection of coding problems for practice and competitive programming.
-28.	**GeeksforGeeks**: Provides tutorials, coding problems, and articles on various computer science topics.
+26.	**[AtCoder](https://atcoder.jp/)**: Japanese competitive programming site that hosts regular contests.
+27.	**[SPOJ](https://www.spoj.com/)**: Offers a vast collection of coding problems for practice and competitive programming.
+28.	**[GeeksforGeeks](https://www.spoj.com/)**: Provides tutorials, coding problems, and articles on various computer science topics.
 29.	**[Mrate.Net](http://mrate.net/)**: Interactive learning platform focusing on problem-solving and critical thinking in math and science.
-30.	**CodingBat**: Offers coding practice problems in Java and Python, with instant feedback.
-31.	**Edabit**: A platform for practicing coding problems in various languages with a gamified approach.
-32.	**CareerFoundry**: Offers mentored courses in web development, UX design, and other tech skills.
-33.	**DataCamp**: Provides interactive courses in data science and analytics, focusing on Python, R, and SQL.
-34.	**Dataquest**: An interactive learning platform for data science, with hands-on coding exercises.
-35.	**Coursera’s Google IT Automation with Python**: A professional certificate program by Google, available on Coursera.
-36.	**LinkedIn Learning**: Offers video courses on a wide range of professional skills, including programming and software development.
-37.	**FutureLearn**: Provides online courses from universities and institutions, including tech and programming subjects.
-38.	**Packt**: Offers books, eBooks, and video courses on software development and IT.
-39.	**JetBrains Academy**: An interactive platform for learning programming, integrated with JetBrains IDEs.
-40.	**Launch School**: Offers a mastery-based learning approach to becoming a software developer.
-41.	**The Pragmatic Studio**: Provides video courses on Ruby, Rails, Elixir, and other programming topics.
-42.	**Real Python**: Offers tutorials, courses, and articles for learning Python programming.
-43.	**Python.org**: The official Python website, offering documentation, tutorials, and community resources.
-44.	**Learn Python the Hard Way**: A book and course for learning Python programming through exercises.
-45.	**Automate the Boring Stuff with Python**: A book and course for learning Python by automating tasks.
-46.	**RubyMonk**: An interactive platform for learning Ruby programming.
-47.	**RailsBridge**: Provides free workshops and resources for learning Ruby on Rails.
-48.	**Learn-ocaml**: An online platform for learning OCaml programming with interactive exercises.
+30.	**[CodingBat](https://codingbat.com/java)**: Offers coding practice problems in Java and Python, with instant feedback.
+31.	**[Edabit](https://edabit.com/)**: A platform for practicing coding problems in various languages with a gamified approach.
+32.	**[CareerFoundry](https://careerfoundry.com/)**: Offers mentored courses in web development, UX design, and other tech skills.
+33.	**[DataCamp](https://www.datacamp.com/)**: Provides interactive courses in data science and analytics, focusing on Python, R, and SQL.
+34.	**[Dataquest](https://www.dataquest.io/)**: An interactive learning platform for data science, with hands-on coding exercises.
+35.	**[Coursera’s Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)**: A professional certificate program by Google, available on Coursera.
+36.	**[LinkedIn Learning](https://www.linkedin.com/learning/)**: Offers video courses on a wide range of professional skills, including programming and software development.
+37.	**[FutureLearn](https://www.futurelearn.com/)**: Provides online courses from universities and institutions, including tech and programming subjects.
+38.	**[Packt](https://www.packtpub.com/en-us)**: Offers books, eBooks, and video courses on software development and IT.
+39.	**[JetBrains Academy](https://www.jetbrains.com/academy/)**: An interactive platform for learning programming, integrated with JetBrains IDEs.
+40.	**[Launch School](https://launchschool.com/)**: Offers a mastery-based learning approach to becoming a software developer.
+41.	**[The Pragmatic Studio](https://pragmaticstudio.com/)**: Provides video courses on Ruby, Rails, Elixir, and other programming topics.
+42.	**[Real Python](https://realpython.com/)**: Offers tutorials, courses, and articles for learning Python programming.
+43.	**[Python.org](https://www.python.org/)**: The official Python website, offering documentation, tutorials, and community resources.
+44.	**[Learn Python the Hard Way](https://learnpythonthehardway.org/)**: A book and course for learning Python programming through exercises.
+45.	**[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)**: A book and course for learning Python by automating tasks.
+46.	**[RubyMonk](https://rubymonk.com/)**: An interactive platform for learning Ruby programming.
+47.	**[RailsBridge](https://github.com/railsbridge)**: Provides free workshops and resources for learning Ruby on Rails.
+48.	**[Learn-ocaml](https://ocaml.org/docs)**: An online platform for learning OCaml programming with interactive exercises.
 49.	**Scala Exercises**: An interactive platform for learning Scala through exercises and quizzes.
-50.	**Haskell.org**: The official site for the Haskell programming language, offering tutorials and resources.
-51.	**Elm-lang.org**: The official site for the Elm programming language, with tutorials and documentation.
-52.	**Rust-lang.org**: The official site for the Rust programming language, with documentation and resources.
-53.	**JuliaAcademy**: Provides free courses and tutorials for learning the Julia programming language.
-54.	**Elixir School**: An open-source curriculum for learning the Elixir programming language.
-55.	**Kotlinlang.org**: The official site for the Kotlin programming language, with documentation and tutorials.
-56.	**Go.dev**: The official site for the Go programming language, offering documentation and learning resources.
-57.	**Flutter by Google**: Provides tutorials and documentation for learning Flutter, Google’s UI toolkit.
-58.	**App Academy Open**: A free, open-source curriculum for learning full-stack web development.
+50.	**[Haskell.org](https://www.haskell.org/)**: The official site for the Haskell programming language, offering tutorials and resources.
+51.	**[Elm-lang.org](https://elm-lang.org/)**: The official site for the Elm programming language, with tutorials and documentation.
+52.	**[Rust-lang.org](https://www.rust-lang.org/)**: The official site for the Rust programming language, with documentation and resources.
+53.	**[JuliaAcademy](https://juliaacademy.com/)**: Provides free courses and tutorials for learning the Julia programming language.
+54.	**[Elixir School](https://elixirschool.com/en)**: An open-source curriculum for learning the Elixir programming language.
+55.	**[Kotlinlang.org](https://kotlinlang.org/)**: The official site for the Kotlin programming language, with documentation and tutorials.
+56.	**[Go.dev](https://go.dev/)**: The official site for the Go programming language, offering documentation and learning resources.
+57.	**[Flutter by Google](https://docs.flutter.dev/get-started/install)**: Provides tutorials and documentation for learning Flutter, Google’s UI toolkit.
+58.	**[App Academy Open](https://www.appacademy.io/course/app-academy-open)**: A free, open-source curriculum for learning full-stack web development.
 59.	**Lambda School**: Offers immersive, online bootcamps for learning software development and data science.
-60.	**Microverse**: Provides an online, remote software development bootcamp.
-61.	**Code Institute**: Offers a diploma in software development, with a focus on practical skills.
-62.	**Flatiron School**: Provides immersive bootcamps in software engineering, data science, and UX/UI design.
-63.	**Thinkful**: Offers online bootcamps and mentorship in software development, data science, and more.
-64.	**Springboard**: Provides online courses and mentorship in data science, AI, and software engineering.
-65.	**General Assembly**: Offers immersive bootcamps and courses in software engineering, data science, and more.
+60.	**[Microverse](https://www.microverse.org/)**: Provides an online, remote software development bootcamp.
+61.	**[Code Institute](https://codeinstitute.net/global/)**: Offers a diploma in software development, with a focus on practical skills.
+62.	**[Flatiron School](https://flatironschool.com/)**: Provides immersive bootcamps in software engineering, data science, and UX/UI design.
+63.	**[Thinkful](https://www.thinkful.com/regulatory-information/)**: Offers online bootcamps and mentorship in software development, data science, and more.
+64.	**[Springboard](https://www.springboard.com/)**: Provides online courses and mentorship in data science, AI, and software engineering.
+65.	**[General Assembly](https://generalassemb.ly/)**: Offers immersive bootcamps and courses in software engineering, data science, and more.
 66.	**Bloc**: Provides online bootcamps and mentorship in web development and design.
-67.	**Codeworks**: Offers immersive bootcamps in software engineering and web development.
-68.	**Fullstack Academy**: Provides immersive bootcamps in software engineering and cybersecurity.
-69.	**Ironhack**: Offers bootcamps in web development, UX/UI design, and data analytics.
+67.	**[Codeworks](https://codeworks-inc.com/)**: Offers immersive bootcamps in software engineering and web development.
+68.	**[Fullstack Academy](https://www.fullstackacademy.com/)**: Provides immersive bootcamps in software engineering and cybersecurity.
+69.	**[Ironhack](https://www.ironhack.com/us)**: Offers bootcamps in web development, UX/UI design, and data analytics.
 70. **Coding Dojo**: Provides bootcamps in full-stack web development and data science.
 71.	**Le Wagon:** Offers bootcamps in web development and data science.
 72.	**Nucamp**: Provides affordable coding bootcamps in web development.

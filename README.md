@@ -112,10 +112,10 @@ Providing deep details for each of the 100 coding platforms would be quite exten
 94.	**Scrimba**: Provides interactive coding tutorials with a unique screencasting format.
 95.	**JavaCodeGeeks**: Offers tutorials, articles, and resources for Java developers.
 96.	**Android Developers**: Official documentation and resources for Android app development.
-97.	**iOS Developer Library**: Official documentation and resources for iOS app development.
+97.	**[iOS Developer Library](https://developer.apple.com/develop/)**: Official documentation and resources for iOS app development.
 98. **[GitHub Learning Lab](https://github.com/apps/github-learning-lab)**: Offers interactive tutorials and projects for learning Git and GitHub.
 99.	**DigitalOcean Community**: Provides tutorials and resources for developers and sysadmins.
-100.	**Dev.to**: A community of developers sharing articles, tutorials, and insights on coding and technology.
+100.	**[Dev.to](https://dev.to/ltcbuzy/49-exceptional-websites-for-learning-python-online-a-comprehensive-guide-4lo6)**: A community of developers sharing articles, tutorials, and insights on coding and technology.
 
 This list gives a brief overview of each platform. For a detailed exploration, you can visit their respective websites and explore the courses, tutorials, and resources they offer.
 
